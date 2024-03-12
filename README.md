@@ -76,7 +76,9 @@ Summary of NLP
 
 [RAG Weaviate Search](https://github.com/YanSte/NLP-Weaviate-Multilingual-RAG-Search)
 
-### Langchain
+## Langchain
+
+### MultStepReason
 
 [LangChain MultStepReason 1](https://github.com/YanSte/NLP-LLM-LangChain-Multi-Step-Reasoning-Part-1)
 
