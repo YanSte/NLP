@@ -11,6 +11,9 @@ Summary of NLP
 ## Vector DB
 
 ### Weaviate 
+
+[Weaviate VectorDB](https://github.com/YanSte/NLP-LLM-VectorDB-Weaviate)
+
 [Weaviate Nearest Neighbors](https://github.com/YanSte/NLP-HNSW-Weaviate-Nearest-Neighbors)
 
 [Weaviate CRUD Search](https://github.com/YanSte/NLP-Weaviate-Vector-CRUD-Search)
@@ -19,7 +22,23 @@ Summary of NLP
 
 [Weaviate Multilingual RAG Search](https://github.com/YanSte/NLP-Weaviate-Multilingual-RAG-Search)
 
+### Pinecone
+
+[Pinecone VectorDB](https://github.com/YanSte/NLP-LLM-VectorDB-Pinecone)
+
+### ChromaDB
+
+[ChromaDB Embedding Search](https://github.com/YanSte/NLP-LLM-Vector-Embeddings-DB-Search)
+
+### FAISS
+
+[FAISS Embedding Search](https://github.com/YanSte/NLP-LLM-Vector-Embeddings-DB-Search)
+
 ## LLM
+
+### Basic
+
+[Basic Applications](https://github.com/YanSte/NLP-LLM-Basic-Applications)
 
 ### Fine-Tuning
 [Fine Tuning with QLoRA How in 2024](https://github.com/YanSte/NLP-LLM-Fine-tuning-Llame-2-QLoRA-2024)
@@ -38,6 +57,11 @@ Summary of NLP
 
 [RAG Weaviate Search](https://github.com/YanSte/NLP-Weaviate-Multilingual-RAG-Search)
 
+## Langchain
+
+[LangChain MultStepReason 1](https://github.com/YanSte/NLP-LLM-LangChain-Multi-Step-Reasoning-Part-1)
+[LangChain ReAct MultStepReason 2](https://github.com/YanSte/NLP-LLM-LangChain-ReAct-MultStepReason-2)
+ 
 ## LLMOps
 
 [LLMOps Pipeline Dev Stag Prod](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod)
