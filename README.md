@@ -64,7 +64,11 @@ Summary of NLP
 
 ## LLamaIndex
 
+### Pipeline
+
 [RAG LLamaIndex Pipeline](https://github.com/YanSte/NLP-LLamaIndex-Advanced-RAG-Pipeline)
+
+### Tests
 
 [RAG LLamaIndex Triad of Metrics](https://github.com/YanSte/NLP-RAG-LLamaIndex-Triad-of-Metrics/)
 
@@ -82,7 +86,7 @@ Summary of NLP
 
 [LLMOps Pipeline Dev Stag Prod](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod)
 
-## Tests
+## Globals
 
 ### Society
 [Society Bias Toxicity](https://github.com/YanSte/NLP-LLM-Society-Bias-Toxicity)
