@@ -3,6 +3,13 @@ Summary of NLP
 
 
 # Vector DB
+## Base
+[Stemming and Lemmatization](https://github.com/YanSte/NLP-Stemming-and-Lemmatization)
+
+[Stemming Lemmatization Classification](https://github.com/YanSte/NLP-Stemming-Lemmatization-Classification)
+
+[TF-IDF Similarity](https://github.com/YanSte/NLP-TF-IDF-Similarity)
+
 ## Weaviate 
 [Nearest Neighbors](https://github.com/YanSte/NLP-HNSW-Weaviate-Nearest-Neighbors)
 
