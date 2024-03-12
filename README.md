@@ -41,11 +41,16 @@ Summary of NLP
 [Basic Applications](https://github.com/YanSte/NLP-LLM-Basic-Applications)
 
 ### Fine-Tuning
+
 [Fine Tuning with QLoRA How in 2024](https://github.com/YanSte/NLP-LLM-Fine-tuning-Llame-2-QLoRA-2024)
 
 [Fine Tuning with QLoRA T5](https://github.com/YanSte/NLP-LLM-Fine-tuning-QA-LoRA-T5)
 
 [Fine Tuning Trainer](https://github.com/YanSte/NLP-LLM-Fine-Tuning-Trainer)
+
+[Fine Tuning PEFT LoRA](https://github.com/YanSte/NLP-PEFT-LoRA-DialogSum-Dialogue-Summarize)
+
+[Fine Tuning POO](https://github.com/YanSte/NLP-PPO-DialogSum-Less-Toxic-Summarize)
 
 ### Fine-Tuning Options
 
