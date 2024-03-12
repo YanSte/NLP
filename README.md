@@ -62,9 +62,11 @@ Summary of NLP
 
 [RAG Langchain QA](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data)
 
-
 ## LLamaIndex
+
 [RAG LLamaIndex Pipeline](https://github.com/YanSte/NLP-LLamaIndex-Advanced-RAG-Pipeline)
+
+[RAG LLamaIndex Triad of Metrics](https://github.com/YanSte/NLP-RAG-LLamaIndex-Triad-of-Metrics/)
 
 ## Weaviate
 
