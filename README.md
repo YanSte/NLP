@@ -58,25 +58,25 @@ Summary of NLP
 
 ## RAG
 
-## QA
+### QA
 
 [RAG Langchain QA](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data)
 
-## LLamaIndex
+### LLamaIndex
 
-### Pipeline
+#### Pipeline
 
 [RAG LLamaIndex Pipeline](https://github.com/YanSte/NLP-LLamaIndex-Advanced-RAG-Pipeline)
 
-### Tests
+#### Tests
 
 [RAG LLamaIndex Triad of Metrics](https://github.com/YanSte/NLP-RAG-LLamaIndex-Triad-of-Metrics/)
 
-## Weaviate
+### Weaviate
 
 [RAG Weaviate Search](https://github.com/YanSte/NLP-Weaviate-Multilingual-RAG-Search)
 
-## Langchain
+### Langchain
 
 [LangChain MultStepReason 1](https://github.com/YanSte/NLP-LLM-LangChain-Multi-Step-Reasoning-Part-1)
 
