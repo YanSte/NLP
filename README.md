@@ -64,7 +64,7 @@ Summary of NLP
 
 ### LLamaIndex
 
-#### Pipeline
+#### RAG Technique
 
 [RAG LLamaIndex Pipeline](https://github.com/YanSte/NLP-LLamaIndex-Advanced-RAG-Pipeline)
 
