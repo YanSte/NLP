@@ -70,6 +70,8 @@ Summary of NLP
 
 [RAG LLamaIndex Sentence Window Retrieval](https://github.com/YanSte/NLP-RAG-LLamaIndex-Sentence-Window-Retrieval)
 
+[RAG LLamaIndex Auto Merging Retrieva](https://github.com/YanSte/NLP-RAG-LLamaIndex-Auto-Merging-Retrieval)
+
 #### Tests
 
 [RAG LLamaIndex Triad of Metrics](https://github.com/YanSte/NLP-RAG-LLamaIndex-Triad-of-Metrics/)
