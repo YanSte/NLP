@@ -68,6 +68,8 @@ Summary of NLP
 
 [RAG LLamaIndex Pipeline](https://github.com/YanSte/NLP-LLamaIndex-Advanced-RAG-Pipeline)
 
+[RAG LLamaIndex Sentence Window Retrieval](https://github.com/YanSte/NLP-RAG-LLamaIndex-Sentence-Window-Retrieval)
+
 #### Tests
 
 [RAG LLamaIndex Triad of Metrics](https://github.com/YanSte/NLP-RAG-LLamaIndex-Triad-of-Metrics/)
