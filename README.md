@@ -17,20 +17,16 @@
 - [Weaviate Search](https://github.com/YanSte/NLP-Weaviate-Semantic-Search-Search)
 
 ### Pinecone
-- [Pinecone VectorDB](https://github.com/YanSte/NLP-LLM-VectorDB-Pinecone)
+- [Pinecone VectorDB Search](https://github.com/YanSte/NLP-LLM-VectorDB-Pinecone)
 
 ### ChromaDB
 - [ChromaDB Embedding Search](https://github.com/YanSte/NLP-LLM-Vector-Embeddings-DB-Search)
 
-
-
 ### FAISS
 - [FAISS Embedding Search](https://github.com/YanSte/NLP-LLM-Vector-Embeddings-DB-Search)
 
-## Embeddings
-
 ### Cohere
-- [Cohere Semantic Search Embeddings](https://github.com/YanSte/NLP-Cohere-Semantic-Search-Embeddings)
+- [Cohere Embeddings Search](https://github.com/YanSte/NLP-Cohere-Semantic-Search-Embeddings)
   
 ## Large Language Model (LLM)
 
