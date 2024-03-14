@@ -13,7 +13,8 @@
 - [Weaviate Nearest Neighbors](https://github.com/YanSte/NLP-HNSW-Weaviate-Nearest-Neighbors)
 - [Weaviate CRUD Search](https://github.com/YanSte/NLP-Weaviate-Vector-CRUD-Search)
 - [Weaviate Sparse Dense Hybrid Search](https://github.com/YanSte/NLP-Weaviate-Sparse-Dense-Hybrid-Search)
-- [Weaviate Multilingual RAG Search](https://github.com/YanSte/NLP-Weaviate-Multilingual-RAG-Search)
+- [Weaviate Multilingual Search](https://github.com/YanSte/NLP-Weaviate-Multilingual-RAG-Search)
+- [Weaviate Search](https://github.com/YanSte/NLP-Weaviate-Semantic-Search-Search)
 
 ### Pinecone
 - [Pinecone VectorDB](https://github.com/YanSte/NLP-LLM-VectorDB-Pinecone)
@@ -51,9 +52,6 @@
 
 ### Tests
 - [RAG LLamaIndex Triad of Metrics](https://github.com/YanSte/NLP-RAG-LLamaIndex-Triad-of-Metrics/)
-
-### Weaviate
-- [RAG Weaviate Search](https://github.com/YanSte/NLP-Weaviate-Multilingual-RAG-Search)
 
 ## Langchain Multistep Reasoning
 - [LangChain MultStepReason 1](https://github.com/YanSte/NLP-LLM-LangChain-Multi-Step-Reasoning-Part-1)
