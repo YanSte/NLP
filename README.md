@@ -17,6 +17,7 @@
 - [Weaviate Search](https://github.com/YanSte/NLP-Weaviate-Semantic-Search-Search)
 - [Weaviate Dense Retrieval](https://github.com/YanSte/NLP-Semantic-Search-Dense-Retrieval)
 - [Weaviate ReRank](https://github.com/YanSte/NLP-Semantic-Search-Rerank)
+
   - 
 ### Pinecone
 - [Pinecone VectorDB Search](https://github.com/YanSte/NLP-LLM-VectorDB-Pinecone)
@@ -30,9 +31,9 @@
 ### Cohere
 - [Cohere Embeddings Search](https://github.com/YanSte/NLP-Cohere-Semantic-Search-Embeddings)
 
-### Semantic Router
+### Semantic 
 - [Semantic Router Semantic Search](https://github.com/YanSte/NLP-Semantic-Router-Semantic-Search)
-
+- [Semantic Generative Answers](https://github.com/YanSte/NLP-Semantic-Search-Generative-Answers)
  
 ## Large Language Model (LLM)
 
