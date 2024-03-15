@@ -18,7 +18,6 @@
 - [Weaviate Dense Retrieval](https://github.com/YanSte/NLP-Semantic-Search-Dense-Retrieval)
 - [Weaviate ReRank](https://github.com/YanSte/NLP-Semantic-Search-Rerank)
 
-  - 
 ### Pinecone
 - [Pinecone VectorDB Search](https://github.com/YanSte/NLP-LLM-VectorDB-Pinecone)
 
@@ -34,11 +33,29 @@
 ### Semantic 
 - [Semantic Router Semantic Search](https://github.com/YanSte/NLP-Semantic-Router-Semantic-Search)
 - [Semantic Generative Answers](https://github.com/YanSte/NLP-Semantic-Search-Generative-Answers)
- 
+
+## Retrieval-Augmented Generation (RAG)
+
+### Question Answering
+- [RAG Langchain QA](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data)
+
+### LLamaIndex
+- [RAG LLamaIndex Pipeline](https://github.com/YanSte/NLP-LLamaIndex-Advanced-RAG-Pipeline)
+- [RAG LLamaIndex Sentence Window Retrieval](https://github.com/YanSte/NLP-RAG-LLamaIndex-Sentence-Window-Retrieval)
+- [RAG LLamaIndex Auto Merging Retrieval](https://github.com/YanSte/NLP-RAG-LLamaIndex-Auto-Merging-Retrieval)
+- [RAG LLamaIndex Ollama Auto Merging Retrieval](https://github.com/YanSte/NLP-RAG-LLamaIndex-Ollama-Auto-Merging-Retrieval)
+
+### Tests
+- [RAG LLamaIndex Triad of Metrics](https://github.com/YanSte/NLP-RAG-LLamaIndex-Triad-of-Metrics/)
+
 ## Large Language Model (LLM)
 
 ### Basic Applications
 - [Basic Applications](https://github.com/YanSte/NLP-LLM-Basic-Applications)
+
+### Langchain
+- [LangChain MultStepReason 1](https://github.com/YanSte/NLP-LLM-LangChain-Multi-Step-Reasoning-Part-1)
+- [LangChain ReAct MultStepReason 2](https://github.com/YanSte/NLP-LLM-LangChain-ReAct-MultStepReason-2)
 
 ### Fine-Tuning
 - [Fine Tuning with QLoRA How in 2024](https://github.com/YanSte/NLP-LLM-Fine-tuning-Llame-2-QLoRA-2024)
@@ -50,25 +67,10 @@
 ### Fine-Tuning Options
 - [Fine Tuning DeepSpeed](https://github.com/YanSte/NLP-LLM-Fine-tuning-DeepSpeed)
 
-## Retrieval-Augmented Generation (RAG)
+### Societal Applications
+- [Society Bias Toxicity](https://github.com/YanSte/NLP-LLM-Society-Bias-Toxicity)
 
-### Question Answering (QA)
-- [RAG Langchain QA](https://www.kaggle.com/code/yannicksteph/nlp-llm-langchain-rag-qa-data)
-
-### LLamaIndex
-- [RAG LLamaIndex Pipeline](https://github.com/YanSte/NLP-LLamaIndex-Advanced-RAG-Pipeline)
-- [RAG LLamaIndex Sentence Window Retrieval](https://github.com/YanSte/NLP-RAG-LLamaIndex-Sentence-Window-Retrieval)
-- [RAG LLamaIndex Auto Merging Retrieval](https://github.com/YanSte/NLP-RAG-LLamaIndex-Auto-Merging-Retrieval)
-
-### Tests
-- [RAG LLamaIndex Triad of Metrics](https://github.com/YanSte/NLP-RAG-LLamaIndex-Triad-of-Metrics/)
-
-## Langchain Multistep Reasoning
-- [LangChain MultStepReason 1](https://github.com/YanSte/NLP-LLM-LangChain-Multi-Step-Reasoning-Part-1)
-- [LangChain ReAct MultStepReason 2](https://github.com/YanSte/NLP-LLM-LangChain-ReAct-MultStepReason-2)
- 
 ## LLMOps
 - [LLMOps Pipeline Dev Stag Prod](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod)
 
-## Societal Applications
-- [Society Bias Toxicity](https://github.com/YanSte/NLP-LLM-Society-Bias-Toxicity)
+
