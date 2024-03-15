@@ -6,7 +6,7 @@
 - [Base TF-IDF Similarity](https://github.com/YanSte/NLP-TF-IDF-Similarity)
 - [Base Neural Word Embeddings](https://github.com/YanSte/NLP-Neural-Word-Embeddings)
 
-## Vector Databases
+## Vector / Semantic / Embeddings
 
 ### Weaviate 
 - [Weaviate VectorDB](https://github.com/YanSte/NLP-LLM-VectorDB-Weaviate)
@@ -27,7 +27,10 @@
 
 ### Cohere
 - [Cohere Embeddings Search](https://github.com/YanSte/NLP-Cohere-Semantic-Search-Embeddings)
-  
+
+### Semantic Router
+- [Semantic Router Semantic Search](https://github.com/YanSte/NLP-Semantic-Router-Semantic-Search)
+ 
 ## Large Language Model (LLM)
 
 ### Basic Applications
