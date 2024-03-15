@@ -15,7 +15,8 @@
 - [Weaviate Sparse Dense Hybrid Search](https://github.com/YanSte/NLP-Weaviate-Sparse-Dense-Hybrid-Search)
 - [Weaviate Multilingual Search](https://github.com/YanSte/NLP-Weaviate-Multilingual-RAG-Search)
 - [Weaviate Search](https://github.com/YanSte/NLP-Weaviate-Semantic-Search-Search)
-
+- [Weaviate Dense Retrieval](https://github.com/YanSte/NLP-Semantic-Search-Dense-Retrieval)
+  
 ### Pinecone
 - [Pinecone VectorDB Search](https://github.com/YanSte/NLP-LLM-VectorDB-Pinecone)
 
