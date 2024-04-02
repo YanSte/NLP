@@ -70,6 +70,9 @@
 ### Societal Applications
 - [Society Bias Toxicity](https://github.com/YanSte/NLP-LLM-Society-Bias-Toxicity)
 
+### Log Monitor Text Metrics
+- [Log Monitor Text Metrics with LangKit](https://github.com/YanSte/NLP-Log-Monitor-Text-Metrics-LangKit)
+
 ## LLMOps
 - [LLMOps Pipeline Dev Stag Prod](https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod)
 
