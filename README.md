@@ -44,6 +44,7 @@
 - [RAG LLamaIndex Sentence Window Retrieval](https://github.com/YanSte/NLP-RAG-LLamaIndex-Sentence-Window-Retrieval)
 - [RAG LLamaIndex Auto Merging Retrieval](https://github.com/YanSte/NLP-RAG-LLamaIndex-Auto-Merging-Retrieval)
 - [RAG LLamaIndex Ollama Auto Merging Retrieval](https://github.com/YanSte/NLP-RAG-LLamaIndex-Ollama-Auto-Merging-Retrieval)
+- [RAG Agent](https://github.com/YanSte/NLP-RAG-LLamaIndex-Agent-with-RAG)
 
 ### Tests
 - [RAG LLamaIndex Triad of Metrics](https://github.com/YanSte/NLP-RAG-LLamaIndex-Triad-of-Metrics/)
