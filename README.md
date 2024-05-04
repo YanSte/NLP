@@ -54,6 +54,9 @@
 ### Basic Applications
 - [Basic Applications](https://github.com/YanSte/NLP-LLM-Basic-Applications)
 
+### Mistral
+- [Prompting](https://github.com/YanSte/NLP-Mistral-Prompting)
+
 ### Langchain
 - [LangChain MultStepReason 1](https://github.com/YanSte/NLP-LLM-LangChain-Multi-Step-Reasoning-Part-1)
 - [LangChain ReAct MultStepReason 2](https://github.com/YanSte/NLP-LLM-LangChain-ReAct-MultStepReason-2)
