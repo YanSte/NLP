@@ -57,6 +57,7 @@
 ### Mistral
 - [Prompting](https://github.com/YanSte/NLP-Mistral-Prompting)
 - [Model Selection](https://github.com/YanSte/NLP-Mistral-Prompting)
+- [Function Calling](https://github.com/YanSte/NLP-Mistral-Function-Calling)
 
 ### Langchain
 - [LangChain MultStepReason 1](https://github.com/YanSte/NLP-LLM-LangChain-Multi-Step-Reasoning-Part-1)
